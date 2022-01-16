@@ -1,0 +1,138 @@
+[33mcommit 7748962539d8ef9a8f3a848ce62038ba7188e2b2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Fri Apr 3 17:22:13 2020 -0500
+
+    temp merge for revert
+
+[33mcommit 5f3248302393cdab8b8c4bbd9029d513260a34f5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bryanh2 <bryanh2@illinois.edu>
+Date:   Thu Apr 2 19:34:58 2020 -0500
+
+    Added temporary model for animating and some animations
+
+[33mcommit 05b051adc1f17ae9bd1ec05d290f389ae2674023[m
+Author: nancynh <nancyh2@illinois.edu>
+Date:   Mon Mar 30 00:47:18 2020 -0500
+
+    fixed grass texture and randomize tiling. also started to add historical posters around the quad
+
+[33mcommit 77c5aaf14cf7785893d808ae53df90ebc3cab4ad[m
+Author: nancynh <nancyh2@illinois.edu>
+Date:   Sat Mar 28 20:57:48 2020 -0500
+
+    changed the filler dialogue for the police officer, lady, and man
+
+[33mcommit cec1b1c9ac1f26eb73f0830e2853b7eb009337e0[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Thu Mar 26 23:12:34 2020 -0500
+
+    added PersonaChangeRoom
+    
+    system not implemented yet tho
+
+[33mcommit 20252b9829ea756da3dc035128769ec564822db8[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Thu Mar 26 22:14:28 2020 -0500
+
+    fixed union rotation
+    
+    +added temporary windows to the union (still looks weird)
+
+[33mcommit a3daa59c5e144236995feb5b4842a7e63c507387[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Tue Mar 24 00:54:06 2020 -0500
+
+    Organized Hierarchy
+    
+    :art: temporarily set wierd building textures to brick
+    added test game object (jeep car)
+
+[33mcommit 35ddf7b3449566ea2214ed3eee92d1b13d5a2164[m
+Author: bryanh2 <bryanh2@illinois.edu>
+Date:   Sun Mar 8 04:00:01 2020 -0500
+
+    modeled and added a street lamp
+
+[33mcommit 4c70c495c6ef568d90fb45c498e6fcd987508ea7[m
+Author: ziyangy2 <ziyangy2@illinois.edu>
+Date:   Sat Mar 7 15:39:48 2020 -0600
+
+    Import TestMash for textmash objects.
+
+[33mcommit 4a0fb66e59cb4e1974b589f07e19a4b677d99baa[m
+Author: ziyangy2 <ziyangy2@illinois.edu>
+Date:   Sat Mar 7 15:37:57 2020 -0600
+
+    Fill in the placeholders (eg. Gender: A) in charater info.
+
+[33mcommit 621d2c64aebe78fc7c6178873c3c8970f1e3f307[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Sat Mar 7 14:47:00 2020 -0600
+
+    :art: fixed sidewalk texture
+
+[33mcommit 3f2f20d1f739f85f96cedcfe30cf876d6db4a663[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Sat Mar 7 14:23:06 2020 -0600
+
+    :art: started changing the building textures
+    
+    added normal maps to the brick textures, not sure what to do about the windows
+
+[33mcommit 1b604c23b4e00daded1f519c071043bd1a8e7458[m
+Merge: d4105da d68fc71
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Sat Mar 7 11:45:55 2020 -0600
+
+    Merge branch 'master' of https://github.com/RisingStockPrices/QuadProject
+
+[33mcommit d4105da6f5eab7dcb25dc43aa3d9f6a3722e6883[m
+Merge: c83e447 654343f
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Sat Mar 7 11:40:31 2020 -0600
+
+    Merge branch 'master' of https://github.com/RisingStockPrices/QuadProject
+
+[33mcommit d68fc716bacdc6c00956b20369a8e0da9f3b9cee[m
+Author: bryanh2 <bryanh2@illinois.edu>
+Date:   Thu Mar 5 23:09:10 2020 -0600
+
+    Added colliders to buildings and made a layer for trees
+
+[33mcommit c83e447d5b233b505af5bc47dfdc21e3009c2759[m
+Author: Son <jooeuns2@illinois.edu>
+Date:   Tue Mar 3 20:07:42 2020 -0600
+
+    deleted stuff for new pull
+
+[33mcommit ff907c8882f5857010b1a8cbcab740636b5c4c6b[m
+Author: Son <jooeuns2@illinois.edu>
+Date:   Tue Mar 3 18:46:30 2020 -0600
+
+    testing
+
+[33mcommit 654343f298bf88a8815fbafd9c6d6de7bc3f7a68[m
+Author: nancynh <nancyh2@illinois.edu>
+Date:   Tue Mar 3 17:15:56 2020 -0600
+
+    made the tree bark brown
+
+[33mcommit f464805341bfbbaa8f3506e83d94b7a704c9d6ee[m
+Author: RisingStockPrices <perarduaadastra3@gmail.com>
+Date:   Mon Mar 2 16:19:56 2020 -0600
+
+    changed settings for version control
+
+[33mcommit 18d6e99bb989c1f5314fddf62a7e265dc1f88a87[m
+Author: RisingStockPrices <perarduaadastra3@gmail.com>
+Date:   Mon Mar 2 16:06:52 2020 -0600
+
+    :tada: initial commit
+    
+    added project file
+
+[33mcommit 97381aac62b6d58f80cf5debdea1e8f18bba7f14[m
+Author: RisingStockPrices <48127526+RisingStockPrices@users.noreply.github.com>
+Date:   Mon Mar 2 15:44:02 2020 -0600
+
+    Initial commit

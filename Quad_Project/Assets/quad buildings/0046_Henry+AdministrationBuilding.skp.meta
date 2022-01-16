@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 24b3a1d4d1706f34b80c18aea8d410e6
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fc74c68bb214ad25f455c1b7a3d5c8f2
+  longitude: -88.22822893883053
+  latitude: 40.10837810707043
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 89.55392, y: 48.248566, z: -70.57295}
+      lookAt: {x: 3.9486117, y: -1.6718607, z: -2.5578952}
+      up: {x: -0.3251901, y: 0.9096683, z: 0.25836974}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: '[Translucent_Glass_Gray]'
+    2100004: 0046_Henry Admin
+    2100006: 0046_2#5
+    2100008: 0046_2#4
+    2100010: 0046_2#3
+    2100012: '[Cladding_Stucco_White]'
+    2100014: 0046_10#2
+    2100016: 0046_10#9
+    2100018: 0046_10#12
+    2100020: 46_Henry Admin_005
+    2100022: 0046_5#7
+    2100024: 0046_5#6
+    2100026: 0046_5#4
+    2100028: 0046_2#1
+    2100030: 0046_3#2
+    2100032: 0046_3#1
+    2100034: 0046_3#3
+    2100036: 0046_10#14
+    2100038: '[Cladding_Stucco_White]1'
+    2100040: '[Cladding_Stucco_White]2'
+    2100042: 0046_5#5
+    2100044: 0046_6#3
+    2100046: 0046_6#2
+    2100048: 0046_2#2
+    2100050: 0046_8#2
+    2100052: 0046_10#4
+    2100054: 0046_10#5
+    2100056: 0046_10#6
+    2100058: 0046_10#7
+    2100060: 46_Henry Admin_005#2
+    2100062: 0046_10#8
+    2100064: 0046_10#11
+    2100066: 0046_10#10
+    2100068: 0046_10#13
+    2100070: '[Brick_Antique]'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh 0046_Henry+AdministrationBuilding
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

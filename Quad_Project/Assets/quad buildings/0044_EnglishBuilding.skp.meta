@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: d9c5ff183b3cda7468305247623966d9
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 06953b4275a7b12fc44b78780c5c4e6d
+  longitude: -88.22817008611706
+  latitude: 40.10757918659612
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -77.46207, y: 46.65583, z: -70.104324}
+      lookAt: {x: -3.9219806, y: 3.2318003, z: -5.77193}
+      up: {x: 0.30567202, y: 0.9138172, z: 0.26739994}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: '[Brick_Antique]1'
+    2100004: '[Color_000]'
+    2100006: 0044_English
+    2100008: 0044_12#1
+    2100010: '[Metal_Corrogated_Shiny]'
+    2100012: 0044_5#2
+    2100014: '[Brick_Antique]2'
+    2100016: Roofing_Slate_Gray
+    2100018: 0044_7#2
+    2100020: 0044_7#4
+    2100022: '[Translucent_Glass_Gray]'
+    2100024: 0044_1#1
+    2100026: 0044_EnglishBuilding21
+    2100028: 0044_EnglishBuilding21#4
+    2100030: 0044_EnglishBuilding21#3
+    2100032: 0044_EnglishBuilding21#2
+    2100034: 0044_1#4
+    2100036: 0044_1#5
+    2100038: 0044_1#6
+    2100040: 0044_7#3
+    2100042: 0044_2
+    2100044: 0044_7#1
+    2100046: 0044_12#2
+    2100048: 0044_3#1
+    2100050: 0044_EnglishBuilding19#1
+    2100052: 0044_5#1
+    2100054: 0044_9#1
+    2100056: 0044_5#4
+    2100058: 0044_5#3
+    2100060: 0044_EnglishBuilding21#1
+    2100062: 0044_2#1
+    2100064: 0044_2#2
+    2100066: 0044_EnglishBuilding6#1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh 0044_EnglishBuilding
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
