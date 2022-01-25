@@ -5,6 +5,6 @@ The Unity3D-based project is specialized for Oculus Quest. We also adapted the p
 
 Please build this project in Unity3D to play.
 
-![screenshot](quad (1).jpg)
+![screenshot](screenshot1.jpg)
 
-![screenshot]("quad (2).jpg")
+![screenshot](screenshot2.jpg)
